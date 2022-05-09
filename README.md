@@ -21,6 +21,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sta-one&show_icons=true&locale=en&layout=compact" alt="sta-one" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sta-one&show_icons=true&locale=en" alt="sta-one" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sta-one-simform&show_icons=true&locale=en" alt="sta-one" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sta-one&" alt="sta-one" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sta-one-simform&" alt="sta-one" /></p>
